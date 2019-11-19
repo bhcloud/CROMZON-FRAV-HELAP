@@ -1,0 +1,47 @@
+*{
+background-color: #282828;
+margin: 0px;
+padding: 0px;
+font-family: 'Gill sans', 'Gill Sans MT', Calibri, 'Trebchet MS', sans-serif;
+}
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+font-size: 15px;
+}
+
+li {
+float: left;
+}
+
+li a {
+color: white;
+display: block;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+
+li a:hover {
+color: darkturquoise;
+}
+
+.RightSide {
+padding-left: 85%;
+}
+
+.active {
+color: blueviolet;
+}
+
+p {
+    padding: 200px;
+}
+
+p{
+    text-align: center;
+    color: cornflowerblue;
+}
